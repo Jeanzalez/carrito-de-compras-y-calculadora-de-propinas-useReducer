@@ -39,7 +39,7 @@ Si deseas probar el proyecto en tu entorno local, sigue estos pasos:
 Este es un proyecto de demostración de una página web que permite agregar productos a un carrito y, sobre esa cantidad, calcular una propina para obtener el total del pedido. 
 
 🔗 **[Ver Demo en Netlify](https://deft-sopapillas-bb606c.netlify.app/)**  
-📂 Ubicación en el repositorio: `Calculadora-propinas`
+📂 Ubicación en el repositorio: `Calculadora_propinas`
 
 #### 🚀 Tecnologías utilizadas
 - Vite ⚡  
