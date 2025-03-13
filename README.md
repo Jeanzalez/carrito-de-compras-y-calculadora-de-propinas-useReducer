@@ -58,7 +58,7 @@ Este es un proyecto de demostración de una página web que permite agregar prod
 Si deseas probar el proyecto en tu entorno local, sigue estos pasos:  
 
 1. Clona este repositorio
-2. Entra en la carpeta del proyecto "Calculadora-propinas"
+2. Entra en la carpeta del proyecto "Calculadora_propinas"
 3. Instala las dependencias:  
    npm install
 4. Inicia el servidor de desarrollo:  
