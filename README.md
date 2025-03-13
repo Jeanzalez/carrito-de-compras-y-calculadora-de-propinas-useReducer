@@ -1,4 +1,4 @@
-# carrito-de-compras-y-calculadora-de-propinas---useReducer
+# carrito-de-compras-y-calculadora-de-propinas-useReducer
 
 Este repositorio contiene dos proyectos distintos de carrito de compras desarrollados con **React**, **TypeScript** y **useReducer** para la gestión del estado. Ambos proyectos ofrecen una experiencia fluida para agregar, eliminar y actualizar productos en el carrito, con funcionalidades adicionales según el caso.
 
